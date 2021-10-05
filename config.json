@@ -1,0 +1,6 @@
+{
+  "browser": "chrome",
+  "headless_mode": false,
+  "tested_page": "https://mystifying-beaver-ee03b5.netlify.app/",
+  "timeout": 10
+}

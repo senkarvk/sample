@@ -1,0 +1,18 @@
+Sort and filter flags:
+sort: 
+	valid :
+			   4 valid strings:
+			   empty: including only spaces, none
+	invalid:
+			  	other than above all are invalid
+
+filter:
+	valid:
+			empty:
+			only spaces:
+			only digits:
+			only alphabets:
+			mixed: eg: a23, a3
+			alpha: eg:#
+
+input excel file from which test data is given is in 'test_data' folder
