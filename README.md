@@ -1,14 +1,15 @@
 # sample
 
 ## Test Automation using python, Selenium, and Pytest
-Ran sucessfully on windows with chrome browser
+Ran sucessfully on windows,linux(ubuntu) with chrome browser
 
 ### Install :
 Python Modules:
 ```bash
 pip install -r requirements.txt
 ```
-Download chrome webdriver and place it in the path
+Download chrome webdriver and place it in the path(works if we plcae 'webdriver' in 'sample' folder for both windows and linux)
+
 ### To run :
 use below command from parent folder:
 ```bash
