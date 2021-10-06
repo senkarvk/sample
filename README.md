@@ -6,7 +6,7 @@ Ran sucessfully on windows with chrome browser
 ### Install :
 Python Modules:
 ```bash
-pip install -r reuirements.txt
+pip install -r requirements.txt
 ```
 Download chrome webdriver and place it in the path
 ### To run :
