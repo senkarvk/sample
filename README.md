@@ -1,6 +1,8 @@
 # sample
 
 ## Test Automation using python, Selenium, and Pytest
+Test to verify Sort and Filter of a Table.
+
 Ran sucessfully on windows,linux(ubuntu) with chrome browser
 
 ### Install :
